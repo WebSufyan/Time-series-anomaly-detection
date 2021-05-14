@@ -29,3 +29,8 @@ how can we acheive all of this and do the classification?
 Using the cost function of model, normal samples will output low cost function, while abnormal samples will output a slightly higher cost function. and this depends on 
 a threshold 
 that should be decided based on training and evaluating the cost fucntion of the model.
+
+
+
+
+this dataset is from :  "Anthony Bagnall, Jason Lines, William Vickers and Eamonn Keogh, The UEA & UCR Time Series Classification Repository, www.timeseriesclassification.com"
